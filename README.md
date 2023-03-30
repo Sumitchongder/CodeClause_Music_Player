@@ -16,12 +16,6 @@ Minimalist design for a no-fuss listening experience
 ## Usage
 Once Simple Music Player is running, you can add music to your library by clicking the "Add Music" button and selecting a folder containing audio files. You can then create playlists, manage your music collection, and enjoy your favorite tunes!
 
-## Contributing
-If you'd like to contribute to Simple Music Player, feel free to submit a pull request. We welcome all contributions and appreciate your help in making this application even better.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 The Pygame library for making it easy to work with audio files in Python. 
 
